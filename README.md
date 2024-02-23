@@ -1,6 +1,6 @@
 # Fake News Detection Model
 
-Due to issues with displaying the .ipynb file on GitHub, please use nbviewer to view the file : [nbviewer link](https://nbviewer.org/github/AcidicArmadillo/Fake-news-detection/blob/master/Fake_News_Detection.ipynb)
+In case of issues with displaying the .ipynb file on GitHub, please use nbviewer to view the file : [nbviewer link](https://nbviewer.org/github/AcidicArmadillo/Fake-news-detection/blob/master/Fake_News_Detection.ipynb)
 
 ## Overview
 
